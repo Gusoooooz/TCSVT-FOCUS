@@ -1,6 +1,3 @@
-# TCSVT-FOCUS
-The complete code for under-review manuscript named "Fast Multiview Co-Clustering in Unified Subspace" will be made publicly available upon acceptance.
-
 ## Fast Multiview Co-Clustering in Unified Subspace
 
 In this paper, we proposed a novel multiview co-clustering method named FOCUS, which achieves discrete label decoupling to avoid reliance on post-processing. Specifically, unsupervised feature embedding is conducted with the principle of information loss minimization, which ensures the sparsity and validity of common representations. Additionally, the coupling matrix is relaxed to unconstrained for flexible approximation in the enhanced version.
@@ -34,8 +31,6 @@ We noted that the self-decoupling strategy inevitably makes performance sensitiv
       pages={659-666},
       doi={10.1109/TPAMI.2023.3279394}
     }
-
-
 
 ## Citation
 
