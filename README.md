@@ -4,7 +4,7 @@ In this paper, we proposed a novel multiview co-clustering method named FOCUS, w
 
 ## Operation Instruction
 
-To demonstrate the performance of our method on the real-world dataset, please run the program named "demo.m". Moreover, the optimization details of FOCUS1 and FOCUS2 are included in 'FOCUS1.m' function and 'FOCUS2.m' function, respectively.
+To demonstrate the performance of our method on the real-world dataset, please run the program named "demo.m". Moreover, the optimization details of FOCUS1 and FOCUS2 are included in 'main1.m' function and 'main2.m' function, respectively.
 
 ## Initialization Discussion
 
